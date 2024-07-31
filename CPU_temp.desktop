@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CPU Temperature Monitor
+Comment=Launches CPU Temperature Monitor
+Exec=sh -c "/bin/bash /home/usr/path/to/dot/sh/file"
+Terminal=true
